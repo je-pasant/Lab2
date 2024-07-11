@@ -1,6 +1,5 @@
 # Lab2
 
-```
 ## 1. List the user commands and redirect the output to /tmp/commands.list
 ```sh
 compgen -c > /tmp/commands.list
